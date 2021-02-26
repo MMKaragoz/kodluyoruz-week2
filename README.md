@@ -1,0 +1,1 @@
+I did the exercises about what we learned in week 2. And I also did the homework that is route finder.
